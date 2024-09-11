@@ -290,7 +290,7 @@ h1 {
     
     width: 100%;
     height: 100vh;
-    background-image: url(../Task2/image/juiceparty.png);
+    background-image: url(./image/juiceparty.png);
     background-position: center;
     background-size: cover;
     
