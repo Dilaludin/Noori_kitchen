@@ -9,7 +9,7 @@
 .Mpage{
     width: 100%;
     height: 100vh;
-    background:url(./image/M_bg.png);
+    background:url(../Task2/image/M_bg.png);
     background-position: center;
     background-size: cover;
     display: flex;
